@@ -1,1 +1,1 @@
-# Computer-Graphics-and-Multimedia
+This program creates a cyan-colored OpenGL window with “Faisal Ahmed” as the window title using GLFW and GLAD. The application continuously renders the cyan background and listens for keyboard input. When the user presses the “F” key (the first letter of the author’s name), the window closes and the program terminates gracefully.
