@@ -1,3 +1,6 @@
+//Name: Faisal Ahmed
+//Id: 0432320005101129
+
 #include "glad.h"
 #include "glfw3.h"
 
@@ -239,4 +242,5 @@ Run glxinfo | grep "OpenGL renderer" in the terminal.*/
 
 /*Student Work
 1. Upside down green triangle in black background
+
 2. Right Angle Magenta triangle in white background*/
